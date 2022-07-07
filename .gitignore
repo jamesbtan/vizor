@@ -1,0 +1,6 @@
+# zig build system artifacts
+zig-cache
+zig-out
+
+lib
+include
